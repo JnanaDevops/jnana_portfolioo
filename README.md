@@ -30,7 +30,12 @@
 ---
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/jnana-kumar-kommula-aa50551b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwmlLPtULTTSfThz2RbeBCg%3D%3D)
+- [LinkedIn: Jnana Kumar](https://www.linkedin.com/in/jnana-kumar-kommula-aa50551b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwmlLPtULTTSfThz2RbeBCg%3D%3D)
+
+---
+
+### My Personal Projects:
+- [Netflix Clone Project](https://github.com/JnanaDevops/jnana-netflix-clone.git)
 
 ---
 
@@ -57,9 +62,9 @@
 
 ---
 
-### **About Me:**
+### About Me:
 
-I am a **Certified DevOps Engineer** with over **3 years of experience** in designing, implementing, and managing cloud infrastructure. My expertise lies in building **secure, scalable, and reliable systems** using technologies such as **AWS, Kubernetes, Terraform, and Docker**. I specialize in automating **CI/CD pipelines**, optimizing **microservices architectures**, and improving the **observability** and **incident management** processes in production systems.
+I am a **Certified DevOps Engineer** with over **3 years of experience** in designing, implementing, and managing cloud infrastructure. My expertise lies in building **secure, scalable, and reliable systems** using technologies such as **AWS, Kubernetes, Terraform, and Docker**. I specialize in automating **CI/CD pipelines**, optimizing **microservices architectures**, and improving **observability** and **incident management** processes in production systems.
 
 I am skilled at **troubleshooting complex issues** in multi-tenant cloud environments and implementing **best practices** for **high availability** and **scalability** in large-scale cloud infrastructure.
 
@@ -106,4 +111,9 @@ With a deep understanding of **Linux-based systems**, I have successfully automa
 
 ---
 
-Let me know if you need any more changes!
+### Final Touches:
+I've added some vibrant colors to headings and sections, making it visually structured and easy to navigate. This version keeps it professional and includes the key highlights of your skills and certifications.
+
+---
+
+Feel free to tell me if you'd like more tweaks!
