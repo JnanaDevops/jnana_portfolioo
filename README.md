@@ -10,7 +10,9 @@
 
 📍 Hyderabad, India  •  📧 thisisjnan@gmail.com  •  📞 +91 8886154881  
 🌐 Portfolio: [My Certifications](https://github.com/JnanaDevops/Jnana_Certifications.git)
+
 🌐 Projects: [Projects](https://github.com/JnanaDevops/jnana-netflix-clone.git))
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jnana-kumar-kommula-aa50551b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwmlLPtULTTSfThz2RbeBCg%3D%3D)  
 
 ---
