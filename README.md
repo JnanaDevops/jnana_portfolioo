@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **collaboration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JnanaDevops/Jnana_Certifications.git](https://github.com/JnanaDevops/Jnana_Certifications.git)
+- 👨‍💻 All of my certifications are available at [https://github.com/JnanaDevops/Jnana_Certifications.git](https://github.com/JnanaDevops/Jnana_Certifications.git)
 
 - 📝 I regularly write articles on [Issue Troubleshooting in multi-tenant-clusters](Issue Troubleshooting in multi-tenant-clusters)
 
